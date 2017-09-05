@@ -10,3 +10,4 @@ Cordova first test app : Hands on different module
 
 <h3> More coming </h3>
 <div> A direct change at github site </div>
+<p> Andother mega change </p>
