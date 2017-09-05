@@ -7,3 +7,5 @@ Cordova first test app : Hands on different module
 <li>Json file</li>
 <li>Local Database</li>
 </ul>
+
+<h3> More coming </h3>
