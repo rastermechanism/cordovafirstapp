@@ -7,3 +7,5 @@ Cordova first test app : Hands on different module
 <li>Json file</li>
 <li>Local Database</li>
 </ul>
+
+<h2> A good way is to start local server</h2>
